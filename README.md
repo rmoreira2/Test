@@ -6,4 +6,5 @@ testBranch
 * Edit on local machine
 =======
 Edited on master
+
 Edit on local machine and master
